@@ -27,17 +27,17 @@ void copy_folder(string route, string destination)
 
 void init()
 {
-  cout << "Directory path. Enter the location of the origin.: ";
+  cout << "Directory path. Enter the location of the origin.: " << endl;;
   string route;
   getline(cin, route);
-  cout << "Directory path. Enter the location of the destination.: ";
+  cout << "Directory path. Enter the location of the destination.: " << endl;;
   string destination;
   getline(cin, destination);
   copy_folder(route, destination);
   if (!copy_folder)
-     cout << "Operation carried out successfully.";
+     cout << "Operation carried out successfully." << endl;
   else
-     cout << "Impossible create folder ";
+     cout << "Impossible create folder " << endl;
   init();
 }
 
