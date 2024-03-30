@@ -36,7 +36,7 @@ int main(){
     }
  
 //     All functions have non-throwing equivalents
-     std::error_code ec;
-     std::filesystem::copy_file(from, to, ec); // does not throw
-     std::cout << "Non-throwing form sets error_code: " << ec.message() << '\n';
+//     std::error_code ec;
+//     std::filesystem::copy_file(from, to, ec); // does not throw
+//     std::cout << "Non-throwing form sets error_code: " << ec.message() << '\n';
 }
