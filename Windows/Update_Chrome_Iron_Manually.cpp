@@ -11,7 +11,7 @@ void copy_folder(string route, string destination)
    if (needle != string::npos)
    {
      /* Modify the destination by adding the name of the folder to copy */ 
-     destination = destination + "\\" + route.substr(aguja+1);       
+     destination = destination + "\\" + route.substr(needle+1);       
    } 
    
    /* Create the empty folder on the destination */
