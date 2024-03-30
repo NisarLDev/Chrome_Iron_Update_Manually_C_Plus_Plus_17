@@ -161,7 +161,7 @@ https://github.com/stefanhaustein/TerminalImageViewer/issues/103
 std::filesystem::filesystem_error::filesystem_error - cppreference.com
 https://en.cppreference.com/w/cpp/filesystem/filesystem_error/filesystem_error
 
-
+https://en.cppreference.com/w/cpp/filesystem/path/native
 
 C++ Crash Course: File I/O Using fstream - YouTube
 https://www.youtube.com/watch?v=QfglM8DGEgA
