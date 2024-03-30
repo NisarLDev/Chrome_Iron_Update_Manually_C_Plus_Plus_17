@@ -34,7 +34,10 @@ void init()
   string destination;
   getline(cin, destination);
   copy_folder(route, destination);
-  cout << "Operation carried out successfully."
+  if (!copy_folder)
+     cout << "Operation carried out successfully.";
+  else
+     cout << "Impossible create folder ";
   init();
 }
 
