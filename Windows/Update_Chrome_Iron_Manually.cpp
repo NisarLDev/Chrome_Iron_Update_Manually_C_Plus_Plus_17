@@ -27,10 +27,10 @@ void copy_folder(string route, string destination)
 
 void init()
 {
-  cout << "Directory path. Enter the location of the origin.: " << endl;;
+  cout << "Directory path. Enter the location of the origin.: " << endl;
   string route;
   getline(cin, route);
-  cout << "Directory path. Enter the location of the destination.: " << endl;;
+  cout << "Directory path. Enter the location of the destination.: " << endl;
   string destination;
   getline(cin, destination);
   copy_folder(route, destination);
