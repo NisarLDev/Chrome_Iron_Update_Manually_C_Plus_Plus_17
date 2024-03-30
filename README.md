@@ -136,6 +136,33 @@ https://www.youtube.com/watch?v=tma4agtKt6Q
 Searching contacts file using fstream in C++ - YouTube
 https://www.youtube.com/watch?v=9Z6mWJXR-6M
 
+
+copy folder c++ at DuckDuckGo
+https://duckduckgo.com/?hps=1&q=copy+folder+c%2B%2B&ia=web
+
+Std::filesystem::copy - C++ - W3cubDocs
+https://docs.w3cub.com/cpp/filesystem/copy.html
+
+Startpage Resultados de la búsqueda
+https://www.startpage.com/sp/search
+
+std::filesystem::filesystem_error - cppreference.com
+https://en.cppreference.com/w/cpp/filesystem/filesystem_error
+
+C++ std::filesystem::filesystem_error exception trying to read system volume information, etc - Stack Overflow
+https://stackoverflow.com/questions/62988629/c-stdfilesystemfilesystem-error-exception-trying-to-read-system-volume-inf
+
+terminate called after throwing an instance of 'std::filesystem::__cxx11::filesystem_error' · Issue #2856 · bpftrace/bpftrace
+https://github.com/bpftrace/bpftrace/issues/2856
+
+Make error: undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()' · Issue #103 · stefanhaustein/TerminalImageViewer
+https://github.com/stefanhaustein/TerminalImageViewer/issues/103
+
+std::filesystem::filesystem_error::filesystem_error - cppreference.com
+https://en.cppreference.com/w/cpp/filesystem/filesystem_error/filesystem_error
+
+
+
 C++ Crash Course: File I/O Using fstream - YouTube
 https://www.youtube.com/watch?v=QfglM8DGEgA
 
