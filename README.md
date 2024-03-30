@@ -1,4 +1,4 @@
-# Chrome_Iron_Update_Manualy
+# Chrome_Iron_Update_Manually
 
 ### Bibliography
 
