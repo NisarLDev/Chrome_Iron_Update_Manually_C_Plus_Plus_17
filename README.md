@@ -5,6 +5,9 @@ These programs only copy folders recursively, except the script on bash. They do
 To change these permissions to folders in Linux to 0755 and the root user as the owner, use the script programmed in bash.
 
 
+To copy the files to linux, write the path without quotation marks, not singles and not doubles.
+
+
 
 
 ### Bibliography
