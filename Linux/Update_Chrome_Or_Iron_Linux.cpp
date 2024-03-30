@@ -7,7 +7,8 @@ using namespace std;
 int main(){
          string route;
          string destination;
-         cout << "Directory path. Enter the location of the origin.: " << endl;
+         cout << "Directory path. Enter the location of the origin without quotes.: " << endl;
+         cout << "To copy the files to linux, write the path without quotation marks, not singles and not doubles." << endl;
          // Taking string input using getline() 
          getline(cin, route); 
          // Displaying string 
