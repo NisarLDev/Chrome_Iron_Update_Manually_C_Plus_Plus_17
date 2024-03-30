@@ -316,3 +316,120 @@ C++ Crash Course: File I/O Using fstream - YouTube
 https://www.youtube.com/watch?v=QfglM8DGEgA
 
 
+### For Linux Operating System
+
+c++ - Compile C++17 code on RedHat Linux Enterprise Developer Workstation - Stack Overflow
+https://stackoverflow.com/questions/51255738/compile-c17-code-on-redhat-linux-enterprise-developer-workstation
+
+How to compile and run C/C++ on Fedora 39 Workstation using GNU GCC and G++ compiler - YouTube
+https://www.youtube.com/watch?v=N3sI2L4tFDU
+
+C/C++ Installation and Practical Usage Guide for Linux
+https://linuxtldr.com/installing-c-cpp-compiler/
+
+c++ Tiro (o consecuencia) en el NULO argumento de la función dejando frente a todo volar? - Desbordamiento De Pila
+https://stackoverflow.com/questions/3395023/throw-or-correspondingly-on-null-function-argument-versus-letting-it-all-blow
+
+std::basic_string - cppreference.com
+https://en.cppreference.com/w/cpp/string/basic_string
+
+cplusplus.com/reference/string/string/
+https://cplusplus.com/reference/string/string/
+
+cplusplus.com/reference/string/string/string/
+https://cplusplus.com/reference/string/string/string/
+
+std::string class in C++ - GeeksforGeeks
+https://www.geeksforgeeks.org/stdstring-class-in-c/
+
+copy folder c++ at DuckDuckGo
+https://duckduckgo.com/?hps=1&q=copy+folder+c%2B%2B&ia=web
+
+Std::filesystem::copy - C++ - W3cubDocs
+https://docs.w3cub.com/cpp/filesystem/copy.html
+
+std::filesystem::filesystem_error - cppreference.com
+https://en.cppreference.com/w/cpp/filesystem/filesystem_error
+
+C++ std::filesystem::filesystem_error exception trying to read system volume information, etc - Stack Overflow
+https://stackoverflow.com/questions/62988629/c-stdfilesystemfilesystem-error-exception-trying-to-read-system-volume-inf
+
+terminate called after throwing an instance of 'std::filesystem::__cxx11::filesystem_error' · Issue #2856 · bpftrace/bpftrace
+https://github.com/bpftrace/bpftrace/issues/2856
+
+Make error: undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()' · Issue #103 · stefanhaustein/TerminalImageViewer
+https://github.com/stefanhaustein/TerminalImageViewer/issues/103
+
+std::filesystem::filesystem_error::filesystem_error - cppreference.com
+https://en.cppreference.com/w/cpp/filesystem/filesystem_error/filesystem_error
+
+copying file using fstream - C++ Forum
+https://cplusplus.com/forum/beginner/189889/
+
+How to copy a directory in C++ - Quora
+https://www.quora.com/How-do-you-copy-a-directory-in-C
+
+std::basic_fstream - cppreference.com
+https://en.cppreference.com/w/cpp/io/basic_fstream
+
+windows - How to use C++ to Copy A Directory - Stack Overflow
+https://stackoverflow.com/questions/14378192/how-to-use-c-to-copy-a-directory
+
+std::filesystem::copy - cppreference.com
+https://en.cppreference.com/w/cpp/filesystem/copy
+
+std::filesystem::path::c_str, std::filesystem::path::native, std::filesystem::path::operator string_type() - cppreference.com
+https://en.cppreference.com/w/cpp/filesystem/path/native
+
+How to copy a directory in C++ - Quora
+https://www.quora.com/How-do-you-copy-a-directory-in-C
+
+How to Copy a File or Directory in Linux (cp command) - Studytonight
+https://www.studytonight.com/linux-guide/how-to-copy-a-file-or-directory-in-linux-cp-command
+
+fstream copy folder - YouTube
+https://www.youtube.com/results?search_query=fstream+copy+folder
+
+fstream Class | Appending to a File in C++ | CPP Programming Video Tutorial - YouTube
+https://www.youtube.com/watch?v=DJSchIAXhDY
+
+46 copy the content of one file to another c++ - YouTube
+https://www.youtube.com/watch?v=BOe9ulboOUo
+
+Streams - What is INPUT and OUTPUT [ C++ FILE Handling ] - YouTube
+https://www.youtube.com/watch?v=I0jbnrJM5zY&list=PLiekDZFMHZAxPhb6UYI3N1IrQzpsMRh6Y
+
+C++ file handling for beginners! The easiest way to read/write into text files! - YouTube
+https://www.youtube.com/watch?v=EaHFhms_Shw
+
+CodeBeauty - YouTube
+https://www.youtube.com/@CodeBeauty/videos
+
+What is "using namespace std" and why is it considered a BAD PRACTICE? C++ Programming Questions - YouTube
+https://www.youtube.com/watch?v=etQX4Mme2f4
+
+Input File Streams in C++ (Reading from Files) - YouTube
+https://www.youtube.com/watch?v=QnCVoYnLIg8
+
+C++ File Handling | Creating and Opening | fstream, ifstream, ofstream | Video Tutorial - YouTube
+https://www.youtube.com/watch?v=rkJJzH-ymg8
+
+C++ Tutorial for Beginners 42 -Create a Text File and Write in It - YouTube
+https://www.youtube.com/watch?v=13TrhiKLZg8
+
+C++: gestione dei file con la libreria fstream - YouTube
+https://www.youtube.com/watch?v=lZudRuguEC8
+
+[C++ Quick Start Part 3/4] Read, write, and parse files(fstream, string, & stringstream) in 31 min. - YouTube
+https://www.youtube.com/watch?v=CAqX8YT4lHI
+
+Read A File And Display Its Contents | C++ Example - YouTube
+https://www.youtube.com/watch?v=tma4agtKt6Q
+
+Searching contacts file using fstream in C++ - YouTube
+https://www.youtube.com/watch?v=9Z6mWJXR-6M
+
+C++ Crash Course: File I/O Using fstream - YouTube
+https://www.youtube.com/watch?v=QfglM8DGEgA
+
+
