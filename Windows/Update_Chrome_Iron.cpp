@@ -21,7 +21,7 @@ void copy_folder(string route, string destination)
    string a_string;
    a_string = "xcopy " + route + " " + destination + " /H /S";
    
-   /* Ejecutar el comando */
+   /* Run the command */
    system(a_string.c_str());
 }
 
