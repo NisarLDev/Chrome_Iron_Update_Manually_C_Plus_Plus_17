@@ -2,9 +2,10 @@
 #include <iostream>
 #include <string>
 #include <system_error>
-using namespace std;
+
 
 int main(){
+         using namespace std;
          string route;
          string destination;
          cout << "Directory path. Enter the location of the origin without quotes.: " << endl;
@@ -34,9 +35,12 @@ int main(){
                   << "code().message():  " << ex.code().message() << '\n'
                   << "code().category(): " << ex.code().category().name() << '\n';
     }
- 
+             cout << "----------------------------" << endl;
+             cout << "    Operation completed.    " << endl;
+             cout << "----------------------------" << endl;
 //     All functions have non-throwing equivalents
 //     std::error_code ec;
 //     std::filesystem::copy_file(from, to, ec); // does not throw
 //     std::cout << "Non-throwing form sets error_code: " << ec.message() << '\n';
-}
+     
+};
