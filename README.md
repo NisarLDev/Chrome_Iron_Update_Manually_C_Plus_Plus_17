@@ -73,10 +73,6 @@ https://baulderasec.wordpress.com/programacion/primeros-pasos-con-linux/copiar-y
 Compatibilidad de la acción Abrir carpeta con sistemas de compilación de C++ en Visual Studio | Microsoft Learn
 https://learn.microsoft.com/es-es/cpp/build/open-folder-projects-cpp?view=msvc-170
 
-
-Startpage Resultados de la búsqueda
-https://www.startpage.com/sp/search
-
 copying file using fstream - C++ Forum
 https://cplusplus.com/forum/beginner/189889/
 
