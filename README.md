@@ -163,6 +163,155 @@ https://en.cppreference.com/w/cpp/filesystem/filesystem_error/filesystem_error
 
 https://en.cppreference.com/w/cpp/filesystem/path/native
 
+
+Startpage Resultados de la búsqueda
+https://www.startpage.com/sp/search
+
+copying file using fstream - C++ Forum
+https://cplusplus.com/forum/beginner/189889/
+
+How to copy a directory in C++ - Quora
+https://www.quora.com/How-do-you-copy-a-directory-in-C
+
+std::basic_fstream - cppreference.com
+https://en.cppreference.com/w/cpp/io/basic_fstream
+
+windows - How to use C++ to Copy A Directory - Stack Overflow
+https://stackoverflow.com/questions/14378192/how-to-use-c-to-copy-a-directory
+
+std::filesystem::copy - cppreference.com
+https://en.cppreference.com/w/cpp/filesystem/copy
+
+std::filesystem::path::c_str, std::filesystem::path::native, std::filesystem::path::operator string_type() - cppreference.com
+https://en.cppreference.com/w/cpp/filesystem/path/native
+
+How to copy a directory in C++ - Quora
+https://www.quora.com/How-do-you-copy-a-directory-in-C
+
+How to Copy a File or Directory in Linux (cp command) - Studytonight
+https://www.studytonight.com/linux-guide/how-to-copy-a-file-or-directory-in-linux-cp-command
+
+fstream copy folder - YouTube
+https://www.youtube.com/results?search_query=fstream+copy+folder
+
+fstream Class | Appending to a File in C++ | CPP Programming Video Tutorial - YouTube
+https://www.youtube.com/watch?v=DJSchIAXhDY
+
+46 copy the content of one file to another c++ - YouTube
+https://www.youtube.com/watch?v=BOe9ulboOUo
+
+Streams - What is INPUT and OUTPUT [ C++ FILE Handling ] - YouTube
+https://www.youtube.com/watch?v=I0jbnrJM5zY&list=PLiekDZFMHZAxPhb6UYI3N1IrQzpsMRh6Y
+
+C++ file handling for beginners! The easiest way to read/write into text files! - YouTube
+https://www.youtube.com/watch?v=EaHFhms_Shw
+
+CodeBeauty - YouTube
+https://www.youtube.com/@CodeBeauty/videos
+
+What is "using namespace std" and why is it considered a BAD PRACTICE? C++ Programming Questions - YouTube
+https://www.youtube.com/watch?v=etQX4Mme2f4
+
+Input File Streams in C++ (Reading from Files) - YouTube
+https://www.youtube.com/watch?v=QnCVoYnLIg8
+
+C++ File Handling | Creating and Opening | fstream, ifstream, ofstream | Video Tutorial - YouTube
+https://www.youtube.com/watch?v=rkJJzH-ymg8
+
+C++ Tutorial for Beginners 42 -Create a Text File and Write in It - YouTube
+https://www.youtube.com/watch?v=13TrhiKLZg8
+
+C++: gestione dei file con la libreria fstream - YouTube
+https://www.youtube.com/watch?v=lZudRuguEC8
+
+[C++ Quick Start Part 3/4] Read, write, and parse files(fstream, string, & stringstream) in 31 min. - YouTube
+https://www.youtube.com/watch?v=CAqX8YT4lHI
+
+Read A File And Display Its Contents | C++ Example - YouTube
+https://www.youtube.com/watch?v=tma4agtKt6Q
+
+Searching contacts file using fstream in C++ - YouTube
+https://www.youtube.com/watch?v=9Z6mWJXR-6M
+
+C++ Crash Course: File I/O Using fstream - YouTube
+https://www.youtube.com/watch?v=QfglM8DGEgA
+
+
+Startpage Resultados de la búsqueda
+https://www.startpage.com/sp/search
+
+copying file using fstream - C++ Forum
+https://cplusplus.com/forum/beginner/189889/
+
+How to copy a directory in C++ - Quora
+https://www.quora.com/How-do-you-copy-a-directory-in-C
+
+std::basic_fstream - cppreference.com
+https://en.cppreference.com/w/cpp/io/basic_fstream
+
+windows - How to use C++ to Copy A Directory - Stack Overflow
+https://stackoverflow.com/questions/14378192/how-to-use-c-to-copy-a-directory
+
+std::filesystem::copy - cppreference.com
+https://en.cppreference.com/w/cpp/filesystem/copy
+
+std::filesystem::path::c_str, std::filesystem::path::native, std::filesystem::path::operator string_type() - cppreference.com
+https://en.cppreference.com/w/cpp/filesystem/path/native
+
+How to copy a directory in C++ - Quora
+https://www.quora.com/How-do-you-copy-a-directory-in-C
+
+How to Copy a File or Directory in Linux (cp command) - Studytonight
+https://www.studytonight.com/linux-guide/how-to-copy-a-file-or-directory-in-linux-cp-command
+
+fstream copy folder - YouTube
+https://www.youtube.com/results?search_query=fstream+copy+folder
+
+fstream Class | Appending to a File in C++ | CPP Programming Video Tutorial - YouTube
+https://www.youtube.com/watch?v=DJSchIAXhDY
+
+46 copy the content of one file to another c++ - YouTube
+https://www.youtube.com/watch?v=BOe9ulboOUo
+
+Streams - What is INPUT and OUTPUT [ C++ FILE Handling ] - YouTube
+https://www.youtube.com/watch?v=I0jbnrJM5zY&list=PLiekDZFMHZAxPhb6UYI3N1IrQzpsMRh6Y
+
+C++ file handling for beginners! The easiest way to read/write into text files! - YouTube
+https://www.youtube.com/watch?v=EaHFhms_Shw
+
+CodeBeauty - YouTube
+https://www.youtube.com/@CodeBeauty/videos
+
+What is "using namespace std" and why is it considered a BAD PRACTICE? C++ Programming Questions - YouTube
+https://www.youtube.com/watch?v=etQX4Mme2f4
+
+Input File Streams in C++ (Reading from Files) - YouTube
+https://www.youtube.com/watch?v=QnCVoYnLIg8
+
+C++ File Handling | Creating and Opening | fstream, ifstream, ofstream | Video Tutorial - YouTube
+https://www.youtube.com/watch?v=rkJJzH-ymg8
+
+C++ Tutorial for Beginners 42 -Create a Text File and Write in It - YouTube
+https://www.youtube.com/watch?v=13TrhiKLZg8
+
+C++: gestione dei file con la libreria fstream - YouTube
+https://www.youtube.com/watch?v=lZudRuguEC8
+
+[C++ Quick Start Part 3/4] Read, write, and parse files(fstream, string, & stringstream) in 31 min. - YouTube
+https://www.youtube.com/watch?v=CAqX8YT4lHI
+
+Read A File And Display Its Contents | C++ Example - YouTube
+https://www.youtube.com/watch?v=tma4agtKt6Q
+
+Searching contacts file using fstream in C++ - YouTube
+https://www.youtube.com/watch?v=9Z6mWJXR-6M
+
+C++ Crash Course: File I/O Using fstream - YouTube
+https://www.youtube.com/watch?v=QfglM8DGEgA
+
+
+
+
 C++ Crash Course: File I/O Using fstream - YouTube
 https://www.youtube.com/watch?v=QfglM8DGEgA
 
