@@ -13,13 +13,13 @@ int main(){
          // Taking string input using getline() 
          getline(cin, route); 
          // Displaying string 
-         cout << "The initial string is : "; 
-         cout << route << endl;  
+         cout << "The location of the origin is : ";
+         cout << route << endl;
          cout << "Directory path. Enter the location of the destination.: " << endl;
          // Taking string input using getline()
          getline(cin, destination);
          cout << "The second string is : ";
-         cout << destination << endl;   
+         cout << destination << endl;
          const std::filesystem::path from{route}, to{destination};
  
     try
