@@ -18,7 +18,7 @@ int main(){
          cout << "Directory path. Enter the location of the destination.: " << endl;
          // Taking string input using getline()
          getline(cin, destination);
-         cout << "The second string is : ";
+         cout << "The location of the destination is : ";
          cout << destination << endl;
          const std::filesystem::path from{route}, to{destination};
  
