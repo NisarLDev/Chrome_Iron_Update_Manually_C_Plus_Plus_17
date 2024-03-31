@@ -7,6 +7,17 @@ To change these permissions to folders in Linux to 0755 and the root user as the
 
 To copy the files to linux, write the path without quotation marks, not singles and not doubles.
 
+To compile the programme on Linux:
+
+1 - g++ name with quotes "Copy_on_Linux.cpp" -o name without quotes
+
+2 - Change permissions, add execution permissions: chmod +x binary file
+
+3 - Execute binary file
+
+4 - Select the original folder path on the screen
+
+5 - Select the destination folder path on the screen
 
 
 
