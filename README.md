@@ -451,6 +451,22 @@ https://www.youtube.com/watch?v=tma4agtKt6Q
 Searching contacts file using fstream in C++ - YouTube
 https://www.youtube.com/watch?v=9Z6mWJXR-6M
 
+Memoria dinámica en C++. Universidad Complutense de Madrid.
+
+https://antares.sip.ucm.es/cpareja/libroCPP/docs/6%20-%20memoria%20din%C3%A1mica%20-%20completo.pdf
+
+Asignación y liberación dinámica de memoria
+
+https://www.codingame.com/playgrounds/51214/manejo-dinamico-de-memoria-y-polimorfismo-practica-4/asignacion-y-liberacion-dinamica-de-memoria
+
+Using Pragma For Compile Optimization
+
+https://www.codingame.com/playgrounds/58302/using-pragma-for-compile-optimization
+
+Liberar memoria c++ (delete)
+
+https://es.stackoverflow.com/questions/119713/liberar-memoria-c-delete
+
 C++ Crash Course: File I/O Using fstream - YouTube
 https://www.youtube.com/watch?v=QfglM8DGEgA
 
