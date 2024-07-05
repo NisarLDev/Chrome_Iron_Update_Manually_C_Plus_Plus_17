@@ -35,12 +35,13 @@ To compile the programme on Linux:
 
   https://jquery-manual.blogspot.com/2015/06/31-tutorial-de-c-en-espanol-copyfolder.html
 
-3 - 28. Crear Directorios | Curso de C desde cero - YouTube
+3 - 28. Crear Directorios | Curso de C desde cero - YouTube.
 
   https://www.youtube.com/watch?v=_n1cYj1OZWc
 
 4 - Crear directorio en c++ linux - YouTube.
-https://www.youtube.com/results?search_query=crear+directorio+en+c%2B%2B+linux
+
+  https://www.youtube.com/results?search_query=crear+directorio+en+c%2B%2B+linux
 
 path - Emulating mkdir -p with the C++ standard library - Stack Overflow
 https://stackoverflow.com/questions/63055147/emulating-mkdir-p-with-the-c-standard-library
